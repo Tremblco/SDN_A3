@@ -1,0 +1,5 @@
+ospf_process_id: 1
+network: 0.0.0.0
+wildcard_mask: 255.255.255.255
+ospf_area: 0
+

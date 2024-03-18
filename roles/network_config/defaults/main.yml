@@ -1,0 +1,3 @@
+router_os: ios
+ansible_user: cody
+ansible_password: cisco
